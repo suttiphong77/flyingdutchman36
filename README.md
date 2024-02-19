@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flyingdutchman36
-- 👀 I’m interested in Backend Developer (Go or Java) and Penetration Tester
-- 🌱 I’m currently learning Golang + Postgres + Kubernetes + gRPC, Penetration Testing
+- 👀 I’m interested in Go Backend Developer and Cybersecurity
+- 🌱 I’m currently learning Golang + Devops + Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
